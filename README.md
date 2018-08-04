@@ -1,2 +1,3 @@
-# nanotours
+# natours
+
 Advanced CSS practice project
